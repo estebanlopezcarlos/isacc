@@ -1,0 +1,27 @@
+style.css
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#main-content {
+    margin: 20px;
+}
+
+.post {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.likes {
+    margin-bottom: 10px;
+}
+
+.comment-input {
+    width: 100%;
+    margin-top: 10px;
+}
